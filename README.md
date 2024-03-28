@@ -1,5 +1,4 @@
-# **AramayoLab** **PepStats_Tables**
-[![DOI](https://zenodo.org/badge/778712109.svg)](https://zenodo.org/doi/10.5281/zenodo.10889791)
+# **AramayoLab: ** **PepStats_Tables** [![DOI](https://zenodo.org/badge/778712109.svg)](https://zenodo.org/doi/10.5281/zenodo.10889791)
 
 ## **Motivation**
 
