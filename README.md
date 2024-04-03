@@ -1,4 +1,4 @@
-**[![DOI](https://zenodo.org/badge/778712109.svg)](https://zenodo.org/doi/10.5281/zenodo.10889791)**
+**[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10889791.svg)](https://doi.org/10.5281/zenodo.10889791)**
 # **PepStats_Tables_Python**
 
 ## **Motivation**
